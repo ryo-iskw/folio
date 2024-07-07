@@ -1,0 +1,12 @@
+[submodule "posca"]
+	path = posca
+	url = https://github.com/githuno/LEARN-rails-gakusyu2.git
+[submodule "turquoise/.devcontainer"]
+	path = turquoise/.devcontainer
+	url = https://github.com/ryo-iskw/turquoise-devcontainer.git
+[submodule "turquoise/frontend"]
+	path = turquoise/frontend
+	url = https://github.com/ryo-iskw/turquoise-frontend.git
+[submodule "turquoise/backend"]
+	path = turquoise/backend
+	url = https://github.com/ryo-iskw/turquoise-backend.git
